@@ -26,4 +26,4 @@ yarn-error.log*
 .firebaserc
 firebase.json
 hosting.*
-/utils/firebase.js
+/src/utils/firebase.js
